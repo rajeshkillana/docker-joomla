@@ -6,7 +6,7 @@ Get your joomla site in one click
 
 ## Environment details:
 - MySQL root password: sql_password
-- Joomla database name: joomla_name
+- Joomla database name: mydb
 - MySQL hostname: mydb
 
 # FAQ

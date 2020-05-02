@@ -6,7 +6,7 @@ services:
       - mysql_storage_new:/var/lib/mysql
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: mysqlpass
+      MYSQL_ROOT_PASSWORD: sql_password
       MYSQL_USER: sqlname
       MYSQL_PASSWORD: sqlpassword
       MYSQL_DATABASE: mydb

@@ -1,7 +1,7 @@
 # docker-joomla
 
 Get your joomla site in one click
-# get all  Joomla + MySQL + phpMyAdmin running on Docker. 
+# get all  Joomla + MySQL running on Docker. 
 ### Written by Rajesh killana
 
 ## Environment details:
